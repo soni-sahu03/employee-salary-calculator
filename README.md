@@ -101,7 +101,7 @@ screenshot produced the expected results.
 
 ## Project Screenshot
 
-![Employee Salary Calculator](PS_No_6_Screenshot.png.jpg)
+![Employee Salary Calculator](PS_No_6_Screenshot.jpg)
 
 ## Author
 
