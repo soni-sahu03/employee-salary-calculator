@@ -97,7 +97,11 @@ python3 one.py
   ------------------------------------------------------------------------
 
 **Test result:** The four test cases shown in the attached console
-screenshot produced the expected results.
+screenshot produced the expected results. 
+
+## Project Screenshot
+
+![Employee Salary Calculator](PS_No_6_Screenshot.png)
 
 ## Author
 
